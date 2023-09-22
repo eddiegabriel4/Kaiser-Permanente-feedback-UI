@@ -8,4 +8,4 @@ This UI needed to meet rigorous standards such as full accessibility and voice o
 
 <img src="https://github.com/eddiegabriel4/Kaiser-Permanente-feedback-UI/assets/81613773/5bf02600-dcf1-4246-a893-e93650613a28" width="350">
 
-<img src="https://github.com/eddiegabriel4/Kaiser-Permanente-feedback-UI/assets/81613773/097cdd59-965e-4e27-8ae5-22c702e31c6a" width="350">
+<img src="https://github.com/eddiegabriel4/Kaiser-Permanente-feedback-UI/assets/81613773/dc1f2339-d0a9-41b5-8fa3-2187f8332bba" width="350">
