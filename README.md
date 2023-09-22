@@ -6,7 +6,7 @@ This is a custom in-app feedback screen I developed during my time at Kaiser Per
 
 This UI needed to meet rigorous standards such as full accessibility and voice over support, dynamic type support, accurate translations, as well as support for any screen size or orientation. In addition to these standards, I personally focused on creating a design at the intersection of beauty and functionality as I believe both qualities are necessary in order to create a truly good UI/UX.
 
-<img src="https://github.com/eddiegabriel4/Kaiser-Permanente-feedback-UI/assets/81613773/2d3664cd-c640-4225-9650-05ffee8ad41d" width="200">
+<img src="https://github.com/eddiegabriel4/Kaiser-Permanente-feedback-UI/assets/81613773/2d3664cd-c640-4225-9650-05ffee8ad41d" width="350">
 
 ![IMG_3820](https://github.com/eddiegabriel4/Kaiser-Permanente-feedback-UI/assets/81613773/2d3664cd-c640-4225-9650-05ffee8ad41d)
 ![IMG_3821](https://github.com/eddiegabriel4/Kaiser-Permanente-feedback-UI/assets/81613773/097cdd59-965e-4e27-8ae5-22c702e31c6a)
